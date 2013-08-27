@@ -1,0 +1,6 @@
+D:\MyProject\LearnCode\LearnCode\bin\Debug\LearnCode.exe.config
+D:\MyProject\LearnCode\LearnCode\bin\Debug\LearnCode.exe
+D:\MyProject\LearnCode\LearnCode\bin\Debug\LearnCode.pdb
+D:\MyProject\LearnCode\LearnCode\obj\Debug\LearnCode.csprojResolveAssemblyReference.cache
+D:\MyProject\LearnCode\LearnCode\obj\Debug\LearnCode.exe
+D:\MyProject\LearnCode\LearnCode\obj\Debug\LearnCode.pdb
